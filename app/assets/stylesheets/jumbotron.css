@@ -7,6 +7,7 @@ body {
 }
 
 .jumbotron {
+	margin-top: 30px;
 	padding: 10px;
 	font-family: 'Play', sans-serif;
 }
@@ -17,4 +18,23 @@ body {
 
 #sous-titre {
 	color: #FF8F08;
+}
+
+#mc_embed_signup {
+	background-color: rgba(0,0,0,0.0); 
+	clear:left; 
+	font:14px 'Play', sans-serif; 
+	width:300px; 
+}
+
+#nwsltr {
+	color: white;
+}
+
+label {
+	color: white;
+}
+
+footer {
+	color: white;
 }
