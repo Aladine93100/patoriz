@@ -11,3 +11,10 @@ body {
 	font-family: 'Play', sans-serif;
 }
 
+.titre {
+	font-size: 20px;
+}
+
+#sous-titre {
+	color: #FF8F08;
+}
